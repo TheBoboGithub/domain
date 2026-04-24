@@ -7,7 +7,7 @@ export const botConfig = {
   // =========================
   // `status` options:
   // - "online"    = green dot
-  // - "idle"      = yellow moon
+  // - "kursed"      = yellow moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
   presence: {
